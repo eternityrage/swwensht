@@ -318,5 +318,21 @@
             },
             "recycled": false
         }
+    },
+    {
+        "video_name": "grok-video-3ce8727d-2b46-4f12-8a07-c5f3daaabd93.mp4",
+        "metadata": {
+            "title": "Sydney Sweeney Daily: Red Carpet Sparkle, Euphoria Energy & Iconic On-Screen Magic! \u2728\ud83d\udd25",
+            "description": "Get ready to feel that electrifying Sydney Sweeney hype\u2014because this video is packed with the moments that make her an absolute Hollywood icon! From breathtaking red carpet looks that steal the spotlight to jaw-dropping interview energy, every clip is a reminder of how effortlessly she blends talent, charisma, and unmistakable style. And when she steps into acting mode? Whew\u2014Euphoria intensity, big-screen presence, and those unforgettable performances that have you rewatching just to catch every detail. We\u2019re celebrating everything from glamorous fashion and behind-the-scenes magic to the roles that keep proving she\u2019s not just a star\u2014she\u2019s a force.\nLike if you love Sydney Sweeney! Comment your favorite Sydney Sweeney movie or role! Share this with another Sydney Sweeney fan! Follow Sydney Sweeney Daily for the best Sydney Sweeney content!\n#sydneysweeney #hollywood #euphoria #spiderman #dune #challengers #sydneysweeneystyle #fashion #celebrity #redcarpet #sydneysweeneyfan #actress #emmywinner #movies #thegreatestshowman",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
