@@ -1790,5 +1790,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-bfa0e700-1698-463b-b9bd-dfe273aef3ea.mp4",
+        "metadata": {
+            "title": "Sydney Sweeney on the Red Carpet \u2014 Fashion Queen Strikes Again",
+            "description": "Sydney Sweeney on the interview circuit is an absolute joy to watch. Whether she's getting flustered talking about Tom Holland or giving profound answers about representation in Hollywood, she lights up every room. Her chemistry with interviewers is unmatched \u2014 she's funny, sharp, thoughtful, and down-to-earth. She's the kind of star who makes you feel like you're just chatting with a friend. Like if you could watch Sydney Sweeney interviews all day! \ud83c\udf99\ufe0f #sydneysweeney #interviews #talkshow #hollywood #celebrity #tombateman #fallon #kimmel #wired #autocomplete #sydneysweeneyfan #funny #personality",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": true,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
