@@ -2158,5 +2158,21 @@
             },
             "recycled": true
         }
+    },
+    {
+        "video_name": "grok-video-1d828141-02a4-4e7a-8356-18d1c4f7ae1f.mp4",
+        "metadata": {
+            "title": "Sydney Sweeney Interview Moments That Proved She's a Star",
+            "description": "Sydney Sweeney doesn't just walk red carpets \u2014 she owns them. From her iconic Tommy Hilfiger chainmail at the Euphoria premiere to that head-turning Margiela couture at the Oscars, every look is a moment. She works with her stylist Law Roach to create fashion history every single time. The way she carries herself, the confidence, the elegance \u2014 it's unmatched. Drop a \ud83d\udd25 if you think Sydney Sweeney is the best-dressed celebrity of our generation! #sydneysweeney #sydneysweeneystyle #redcarpet #fashionicon #lawroach #celebrityfashion #hollywoodstyle #sydneysweeneyfan #metgala #euphoria #spiderman #dune #challengers #fashiongoals #icon",
+            "success_flags": {
+                "instagram_reel": false,
+                "instagram_story": false,
+                "facebook_reel": true,
+                "facebook_story": false,
+                "threads": false,
+                "youtube": false
+            },
+            "recycled": true
+        }
     }
 ]
